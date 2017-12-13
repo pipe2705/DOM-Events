@@ -11,10 +11,9 @@ You can find a full list of `event` related methods in jQuery here: http://api.j
 ## Exercises
 
 **Instructions:**  
-* For each exercise, start by opening the `index.html` file for that challenge in your browser. (You can do this from inside Sublime Text by right clicking inside the html file and selecting "Open in Browser").
+* For each exercise, start by opening the `index.html` file for that challenge in your browser. 
 * To solve the challenge, you'll need to change each `base.js` file.
 * Make sure to open your Chrome Developer Console so that you can check for bugs!
-* SOLUTIONS: Solutions are in the `solutions` branch.
 
 ###1. ready
 - **Challenge**: Can you get the page to say "Go!" (without touching the html)?
