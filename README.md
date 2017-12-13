@@ -12,7 +12,8 @@ You can find a full list of `event` related methods in jQuery here: http://api.j
 ## Exercises
 
 **Instructions:**  
-* For each exercise, start by opening the `index.html` file for that challenge in your browser. 
+* For each exercise, start by opening the `index.html` file for that challenge in your browser.
+* Access your code for all challenges [here](https://git.generalassemb.ly/WDIplus-ATX/jQuery-Events-Lab).
 * To solve the challenge, you'll need to change each `base.js` file.
 * Make sure to open your Chrome Developer Console so that you can check for bugs!
 
