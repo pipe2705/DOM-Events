@@ -1,5 +1,3 @@
 console.log("Sanity Check: JS is working!");
 
-$(document).ready(function(){
-
-})
+// write your jQuery code here:
