@@ -81,8 +81,8 @@ $(document).ready(function() {
 })
 ```
 
-**Read this:**
-[When (NOT) to use $(document).ready(function(){})](https://jack.ofspades.com/speed-up-your-website-load-time-by-not-waiting-for-document-ready/index.html)
+**Read this:
+[When (NOT) to use $(document).ready(function(){})](https://jack.ofspades.com/speed-up-your-website-load-time-by-not-waiting-for-document-ready/index.html)**
 
 
 #### So... the takeaways:
