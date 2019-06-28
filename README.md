@@ -35,41 +35,20 @@ Because there are several files in it you will use.  Don't fork. Just clone.
 
 ---
 
-### 1. `ready`
-
-- **Challenge**: Without touching the `index.html` file, make the page say "Go!" (where it currently says "Ready?")
-
----
-
-### 2. `submit`
-
-* Spend 2 minutes talking to the person sitting next to you about the difference between an "event handler" and an "event listener."
-
-- **Challenge**: Stop the forms from submitting...
-    + Ask the question to Google: "How do I stop a form from submitting?"
-    + You will have to use the `e` (or `event`) object that is passed to your event handler (the parameter in the callback).
-    + Why does one button reload the same page and the other redirect?
-    + What is the "?" doing in the URL? Try removing it.
-    
-- Bonus: Instead of redirecting to youtube, let's embed the video in our page instead!
-    +  When the user clicks "submit", dynamically insert the embed code into the page (on youtube, click "share" under the video, then click "embed" and copy the html). HINT: The embed code belongs in your javascript, not your html!
-
----
-
-### 3. `change`
+### 1. `change`
 - **Challenge**: Some simple addition! Can you get the total to update whenever you update the numbers?
 - Bonus: Add a "reset" button that clears all the inputs.
 
 ---
 
-### 4. `click`
+### 2. `click`
 
 - **Challenge**: Create a list of all the phrases that you click.
 - Stretch: In addition to listing the phrase clicked, can you include a timestamp?
 
 ---
 
-### 5. `keypress`
+### 3. `keypress`
 
 #### Important Note for #5: Read all of this before starting the question. 
 
@@ -99,6 +78,26 @@ $(document).ready(function() {
 #### And finally the actual question for number 5: 
 - **Challenge**: Stop watch. When the user hits spacebar, record their "start" time. When they  hit it again, record their "end" time. Then, calculate the total time, and put it on the page.
 
+---
+
+### 4. `ready`
+
+- **Challenge**: Now that you know about the `ready` event, without touching the `index.html` file, make the page say "Go!" (where it currently says "Ready?")
+
+---
+
+### 5. `submit`
+
+* Spend 2 minutes talking to the person sitting next to you about the difference between an "event handler" and an "event listener."
+
+- **Challenge**: Stop the forms from submitting...
+    + Ask the question to Google: "How do I stop a form from submitting?"
+    + You will have to use the `e` (or `event`) object that is passed to your event handler (the parameter in the callback).
+    + Why does one button reload the same page and the other redirect?
+    + What is the "?" doing in the URL? Try removing it.
+    
+- Bonus: Instead of redirecting to youtube, let's embed the video in our page instead!
+    +  When the user clicks "submit", dynamically insert the embed code into the page (on youtube, click "share" under the video, then click "embed" and copy the html). HINT: The embed code belongs in your javascript, not your html!
 
 ---
 
