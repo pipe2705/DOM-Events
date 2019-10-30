@@ -1,5 +1,4 @@
 console.log("Sanity Check: JS is working!");
 
-
-$("#time").text( Date.now() );
-
+let element = document.querySelector("#time")
+element.textContent = Date.now()
