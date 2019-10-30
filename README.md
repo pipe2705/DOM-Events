@@ -77,6 +77,5 @@ document.addEventListener("DOMContentLoaded", ()=>{
     - When the user clicks "submit", dynamically insert the embed code into the page (on YouTube click "Share" under the video, then click "Embed" and copy the HTML). HINT: The embed code belongs in your JavaScript, not your HTML!
 
 ---
-html
 ### Wrap it up
 - Recommended: Can you link all the pages together? Create a navbar at the top of every page, with links to all the other pages.
