@@ -4,7 +4,7 @@ Type: Lab<br>
 Created by: WDI Instructional staff<br>
 Class: wdi-cc<br>
 Updated by: Reuben Ayres, Jim Haff, Daniel Scott and Tyler Lane<br>
-Competencies: Beginner-level jQuery fundamentals, DOM
+Competencies: JavaScript event fundamentals, DOM
 
 ---
 
