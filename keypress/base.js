@@ -19,6 +19,7 @@ let trackTime = function() {
 					totalTime.textContent = (stopWatchStop - stopWatchStart) / 1000 + " secs"
 					console.log("Time's Up") 
 			}
+			
 			else{
 				stopWatchStart = Date.now()
 				startTime = true;
